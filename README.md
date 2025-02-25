@@ -1,2 +1,0 @@
-# Selenium-Assignments
-Selenium Assignments
